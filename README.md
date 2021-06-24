@@ -1,9 +1,9 @@
 ### Hi, I am Supriti.
 
+- 💞️ Looking for a full-time job opportunity in data science and software enginneering.
 - 🎓 I'm a computer science graduate (MS) student at the University of South Dakota.
 - 🔭 Developing methodologies using deep neural network that can detect COVID-19 using chest X-ray image.
 - 🌱 Working on analyzing data science programs for data visualization.
-- 💞️ Looking for a full-time job opportunity from May 2022.
 - 😄 Pronouns: She/her
 
 I'm best reached via email (supriti.ghosh@coyotes.usd.edu). I'm always open to interesting conversations and collaboration. My [homepage](https://supritighosh.github.io/).
