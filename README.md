@@ -6,7 +6,7 @@
 - 🌱 Working on analyzing data science programs for data visualization.
 - 😄 Pronouns: She/her
 
-I'm best reached via email (supriti.ghosh@coyotes.usd.edu). I'm always open to interesting conversations and collaboration. My [homepage](https://supritighosh.github.io/).
+I'm best reached via email (supriti.ghosh@coyotes.usd.edu). I'm always open to interesting and engaging conversations. My [homepage](https://supritighosh.github.io/).
 
 ---
 <p align="center">
