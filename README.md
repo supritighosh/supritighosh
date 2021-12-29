@@ -1,5 +1,6 @@
 ### Hi, I am Supriti.
 
+- 💞️ Looking for a full-time job opportunity in data science and software enginneering.
 - 🎓 I'm a computer science graduate (MS) student at the University of South Dakota.
 - 🔭 Developing methodologies using deep neural network that can detect Covid-19 using chest X-ray image.
 - 🌱 Working on analyzing data science programs for data visualization.
