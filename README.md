@@ -1,6 +1,5 @@
 ### Hi, I am Supriti.
 
-- 💞️ Looking for a full-time job opportunity in software enginneering.
 - 🎓 I'm a computer science graduate (MS) student at the University of South Dakota.
 - 🔭 Designing and developing web applications, NLP tools for text mining.
 - 🌱 Working on methodologies using deep neural network that can detect Covid-19 using chest X-ray image.
