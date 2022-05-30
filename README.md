@@ -1,11 +1,10 @@
 ### Hi, I am Supriti.
 
-- 🎓 I'm a computer science graduate (MS) student at the University of South Dakota.
-- 🔭 Designing and developing web applications, NLP tools for text mining.
-- 🌱 Working on methodologies using deep neural network that can detect Covid-19 using chest X-ray image.
+- 💻 I am an incoming Software Engineer II in NetApp Inc.
+- 🎓 I completed my MS in computer science at the University of South Dakota.
 - 😄 Pronouns: She/her
 
-I'm best reached via email (supriti.ghosh@coyotes.usd.edu). I'm always open to interesting and engaging conversations. My [homepage](https://supritighosh.github.io/).
+I'm best reached via email (supriti.ghosh@coyotes.usd.edu). I'm open to interesting and engaging conversations. My [homepage](https://supritighosh.github.io/).
 
 ---
 <p align="center">
