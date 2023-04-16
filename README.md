@@ -1,7 +1,7 @@
 ### Hi, I am Supriti.
 
 - 💞️ Looking for a full-time job opportunity in software enginneering. 
-- 💻 I have worked as a Software Engineer II in NetApp Inc in Cloud Volumes Service (CVS) and Hybrid Cloud Engineering (HCE).
+- 💻 I have worked as a Software Engineer II in NetApp Inc in Cloud Volumes Service (CVS) and Hybrid Cloud Engineering (HCE) team.
 - 🎓 I completed my MS in computer science at the University of South Dakota.
 - 😄 Pronouns: She/her
 
