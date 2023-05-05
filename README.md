@@ -1,6 +1,6 @@
 ### Hi, I am Supriti.
 
-- 💞️ I am working as a Software Engineer at Cardinal Health in the Enterprise Automation Services Team (EAST). 
+- 💞️ I am working as a Software Engineer at Cardinal Health in the Enterprise Automation Services Team (EAST) on the automation processes in the information platform. 
 - 💻 Before that, I worked as a Software Engineer at NetApp in Cloud Volumes Service (CVS) and Hybrid Cloud Engineering (HCE) team and also worked as a Software Engineer and Machine Learning Engineer at the University of South Dakota.
 - 🎓 I completed my MS in computer science at the University of South Dakota.
 - 😄 Pronouns: She/her
